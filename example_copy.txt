@@ -1,0 +1,5 @@
+Line 1: Hello, Python File Handling!
+Line 2: This is the second line.
+Line 3: Learning file operations in Python.
+Line 4: This line is appended.
+Line 5: Appending more data to the file.
